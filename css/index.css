@@ -90,6 +90,7 @@ nav ul li a:hover {
   background: transparent;
   color: #e6af2e;
   border: 2px solid #e6af2e;
+  cursor: pointer;
 }
 .banner-btn button:hover {
   color: #e0e2db;
