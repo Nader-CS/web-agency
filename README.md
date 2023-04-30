@@ -12,6 +12,6 @@ This project involve this libraries : **[Font Awesome](https://fontawesome.com/)
 
 # Note
 
-This project used an **two of new schools** approach to **layout pages** , **In other words** i used a "**flexbox**" and "**grid**" to layout my pages.
+This project used **two of new schools** approach to **layout pages** , **In other words** i used a "**flexbox**" and "**grid**" to layout my pages.
 
 # Demo
