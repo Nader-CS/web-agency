@@ -97,3 +97,46 @@ nav ul li a:hover {
   background: #e6af2e;
 }
 /* End of banner  */
+/* skills */
+#skills {
+  padding: 60px 0;
+}
+.skills-container {
+  max-width: 95vw;
+  margin: 0 auto;
+}
+.skills-item {
+  text-align: center;
+  margin: 20px 0;
+}
+.skills-item .fa,
+.fa-regular {
+  font-size: 60px;
+  color: #191716;
+}
+.skills-item h1 {
+  font-size: 30px;
+  letter-spacing: 2px;
+  margin: 30px 0;
+  color: #e6af2e;
+  text-transform: uppercase;
+}
+.skills-item p {
+  width: 75%;
+  margin: 0 auto;
+}
+@media screen and (min-width: 576px) {
+  .skills-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1rem;
+  }
+}
+@media screen and (min-width: 992px) {
+  .skills-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 0.2rem;
+  }
+}
+/* End of skills */
