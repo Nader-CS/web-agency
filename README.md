@@ -10,10 +10,8 @@ This project involves these technologies : **HTML** , **Css** , **JavaScript** .
 
 This project involve this libraries : **[Font Awesome](https://fontawesome.com/)** , **[Google Fonts](https://fonts.google.com/)** .
 
-
 # Note
 
-This project used an **one of new schools** approach to **layout pages** , **In other words** i used a "**grid**" to layout my pages.
+This project used an **one of new schools** approach to **layout pages** , **In other words** i used a "**flexbox**" to layout my pages.
 
 # Demo
-
