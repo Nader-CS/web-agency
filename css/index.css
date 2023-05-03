@@ -314,3 +314,37 @@ nav ul li a:hover {
   }
 }
 /* End of projects */
+/* filter */
+#filter-contact {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("../images/filler.jpeg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 60px;
+  align-items: baseline;
+}
+#filter-contact h1 {
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #e0e2db;
+  margin-bottom: 0.9rem;
+}
+#filter-contact button {
+  font-size: 1.9rem;
+  text-transform: uppercase;
+  color: #e6af2e;
+  border: 2px solid #e6af2e;
+  padding: 10px 15px;
+  background: transparent;
+  transition: all 0.5s;
+}
+#filter-contact button:hover {
+  background: #e6af2e;
+  color: #191716;
+}
+/* End of filter */
