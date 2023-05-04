@@ -16,7 +16,7 @@ This project mixed **two of new schools** approach to **layout pages** , **In ot
 
 # Snapshot
 
-![image](https://i.ibb.co/7X1TDnw/screencapture-127-0-0-1-5500-HTML-index-html-2023-05-04-14-29-45.png)
+<p align="center"><img src="https://i.ibb.co/7X1TDnw/screencapture-127-0-0-1-5500-HTML-index-html-2023-05-04-14-29-45.png" /></p>
 
 # Demo
 
