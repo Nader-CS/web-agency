@@ -422,3 +422,31 @@ nav ul li a:hover {
   }
 }
 /* End of posts */
+/* footer */
+footer {
+  background-color: #191716;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.footer-text {
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  color: #e0e2db;
+  margin-bottom: 10px;
+}
+.footer-icons {
+  font-size: 1.8rem;
+}
+.footer-icons a i {
+  margin-right: 0.6rem;
+  color: #e0e2db;
+  transition: transform 0.8s;
+}
+.footer-icons a i:hover {
+  color: #e6af2e;
+  transform: translateY(-16px);
+}
+/* End of footer */
