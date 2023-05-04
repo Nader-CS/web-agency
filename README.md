@@ -14,7 +14,8 @@ This project involve those libraries : **[Font Awesome](https://fontawesome.com/
 
 This project mixed **two of new schools** approach to **layout pages** , **In other words** i used a "**flexbox**" and "**grid**" to layout my pages.
 
-#Snapshot
+# Snapshot
+
 ![image](https://i.ibb.co/7X1TDnw/screencapture-127-0-0-1-5500-HTML-index-html-2023-05-04-14-29-45.png)
 
 # Demo
